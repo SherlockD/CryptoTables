@@ -1,0 +1,12 @@
+c:\users\user\source\repos\CryptoTables\CryptoTables\bin\Debug\CryptoTables.exe.config
+c:\users\user\source\repos\CryptoTables\CryptoTables\bin\Debug\CryptoTables.exe
+c:\users\user\source\repos\CryptoTables\CryptoTables\bin\Debug\CryptoTables.pdb
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.csprojAssemblyReference.cache
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.Form1.resources
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.Properties.Resources.resources
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.csproj.GenerateResource.cache
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.exe
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.pdb
+c:\users\user\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.Form2.resources
+C:\Users\User\source\repos\CryptoTables\CryptoTables\obj\Debug\CryptoTables.Form3.resources
