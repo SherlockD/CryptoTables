@@ -8,7 +8,6 @@ namespace CryptoTables
     public partial class Form1 : Form
     {
         public const string fileName = "/pass.txt";
-        public string passwordFilePath = @"C:/Users/User/Desktop";
 
         private byte _errorsCount = 0;
 
