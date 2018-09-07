@@ -1,2 +1,2 @@
 # CryptoTables
-Developed by Andreev Dmitry 2018 
+Developed by Andreev Dmitry 5.09.2018 
